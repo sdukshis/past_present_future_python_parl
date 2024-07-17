@@ -1,0 +1,5 @@
+.venv*
+cpython
+disable_gil_build
+enable_gil
+*.pyc
